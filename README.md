@@ -1,3 +1,8 @@
+### Hello, my name is Vlad, I am a Python developer.
+I develop programs and applications that 
+make people's lives easier and help them solve problems more efficient
+
+
 <p align="center">
   <img src="soul.gif" alt="Мое изображение">
 </p>
