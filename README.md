@@ -5,10 +5,12 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=White)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 
 ### Skills
-![PythonCore](https://img.shields.io/badge/-PythonCore-blue?style=for-the-badge&logo=PythonCore&logoColor=White)
+![PythonCore](https://img.shields.io/badge/-PythonCore-blueviolet?style=for-the-badge&logo=PythonCore&logoColor=White)
+![ClearCode](https://img.shields.io/badge/-PythonCore-blueviolet?style=for-the-badge&logo=ClearCode&logoColor=White)
+![Working with external messenger APIs](https://img.shields.io/badge/-PythonCore-blueviolet?style=for-the-badge&logo=Working with external messenger APIs&logoColor=White)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
