@@ -1,7 +1,12 @@
 <p align="center">
   <img src="soul.gif" alt="Мое изображение">
 </p>
-✨With my heart for you...✨
+✨With a soul for you...✨
+
+<div id='socials' align='centr'>
+  <a href='https://vk.com/psidarkman'
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk.com&logoColor=blue" alt="vk Badge"/>
+  </a>
 
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
