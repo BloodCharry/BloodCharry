@@ -21,6 +21,9 @@
 ### Follow Me
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-informational?style=for-the-badge&logo=Vkontakte&logoColor=White)](https://vk.com/psidarkman)
+[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=Telegram&logoColor=White)](https://t.me/BloodCharry)
+
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BloodCharry&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
