@@ -2,7 +2,7 @@
   <img src="soul.gif" alt="Мое изображение">
 </p>
 ✨With my heart for you...✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavVorobei&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloodCharry&theme=github_dark&show_icons=true)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
