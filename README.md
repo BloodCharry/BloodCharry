@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="soul.gif" alt="Мое изображение">
+</p>
+###  ✨With my heart for you...✨
 
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
