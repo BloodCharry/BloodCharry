@@ -17,6 +17,10 @@
 ![Automation](https://img.shields.io/badge/-Automation-blueviolet?style=for-the-badge&logo=Automation&logoColor=White)
 ![WorkPictures](https://img.shields.io/badge/-WorkPictures-blueviolet?style=for-the-badge&logo=WorkPictures&logoColor=White)
 ![Databases](https://img.shields.io/badge/-Databases-blueviolet?style=for-the-badge&logo=Databases&logoColor=White)
+
+### Follow Me
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-informational?style=for-the-badge&logo=Vkontakte&logoColor=White)](https://vk.com/psidarkman)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
