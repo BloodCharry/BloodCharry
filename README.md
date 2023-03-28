@@ -3,9 +3,12 @@
 </p>
 ✨With a soul for you...✨
 
-### Languages and Skills
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=White)
+
+### Skills
+![PythonCore](https://img.shields.io/badge/-PythonCore-blue?style=for-the-badge&logo=PythonCore&logoColor=White)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
