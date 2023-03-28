@@ -5,7 +5,7 @@
 
 ### Languages and Skills
 
-[!Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=White)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=White)
 <!--
 **BloodCharry/BloodCharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
