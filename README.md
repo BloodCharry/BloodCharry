@@ -2,10 +2,10 @@
 I develop programs and applications that 
 make people's lives easier and help them solve problems more efficient
 
-
 <p align="center">
-  <img src="soul.gif" alt="Мое изображение">
+  <img src="soul.gif" alt="">
 </p>
+
 ✨With a soul for you...✨
 
 ### Languages
