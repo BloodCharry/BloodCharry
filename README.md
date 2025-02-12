@@ -47,7 +47,7 @@ make people's lives easier and help them solve problems more efficient
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=White)
 ![scss](https://img.shields.io/badge/-scss-blue?style=for-the-badge&logo=scss&logoColor=White)
 ![docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=White)
-![docker-compose](https://img.shields.io/badge/-docker-compose-blue?style=for-the-badge&logo=docker-compose&logoColor=White)
+![docker-compose](https://img.shields.io/badge/-dockercompose-blue?style=for-the-badge&logo=dockercompose&logoColor=White)
 
 
 ### Follow Me
