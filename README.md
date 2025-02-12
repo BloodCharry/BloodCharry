@@ -14,7 +14,7 @@ make people's lives easier and help them solve problems more efficient
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=yellow)
 
 
-### Skills
+### Python skills
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
 ![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
 ![fastAPI](https://img.shields.io/badge/-fastAPI-blueviolet?style=for-the-badge&logo=fastAPI&logoColor=White)
@@ -24,6 +24,31 @@ make people's lives easier and help them solve problems more efficient
 ![Djoser](https://img.shields.io/badge/-Djoser-blueviolet?style=for-the-badge&logo=Djoser&logoColor=White)
 ![Simplejwt](https://img.shields.io/badge/-Simplejwt-blueviolet?style=for-the-badge&logo=Simplejwt&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
+![Alembic](https://img.shields.io/badge/-Alembic-blueviolet?style=for-the-badge&logo=Alembic&logoColor=White)
+![Beautiful Soup](https://img.shields.io/badge/-BeautifulSoup-blueviolet?style=for-the-badge&logo=BeautifulSoup&logoColor=White)
+![Poetry](https://img.shields.io/badge/-Poetry-blueviolet?style=for-the-badge&logo=Poetry&logoColor=White)
+![Selenium](https://img.shields.io/badge/-Selenium-blueviolet?style=for-the-badge&logo=Selenium&logoColor=White)
+![Pillow](https://img.shields.io/badge/-Pillow-blueviolet?style=for-the-badge&logo=Pillow&logoColor=White)
+![Opencv](https://img.shields.io/badge/-Opencv-blueviolet?style=for-the-badge&logo=Opencv&logoColor=White)
+![Numpy](https://img.shields.io/badge/-Numpy-blueviolet?style=for-the-badge&logo=Numpy&logoColor=White)
+![Pydantic](https://img.shields.io/badge/-Pydantic-blueviolet?style=for-the-badge&logo=Pydantic&logoColor=White)
+![Pytesseract](https://img.shields.io/badge/-Pytesseract-blueviolet?style=for-the-badge&logo=Pytesseract&logoColor=White)
+
+
+### TypeScript skills
+![Angular](https://img.shields.io/badge/-Angular-yellow?style=for-the-badge&logo=Angular&logoColor=White)
+![Angular Material](https://img.shields.io/badge/-AngularMaterial-yellow?style=for-the-badge&logo=AngularMaterial&logoColor=White)
+![Angular Universal](https://img.shields.io/badge/-AngularUniversal-yellow?style=for-the-badge&logo=AngularUniversal&logoColor=White)
+![NgRx](https://img.shields.io/badge/-NgRx-yellow?style=for-the-badge&logo=NgRx&logoColor=White)
+![RxJS](https://img.shields.io/badge/-RxJS-yellow?style=for-the-badge&logo=RxJS&logoColor=White)
+
+### Other skills
+![Html](https://img.shields.io/badge/-Html-blue?style=for-the-badge&logo=Html&logoColor=White)
+![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=White)
+![scss](https://img.shields.io/badge/-scss-blue?style=for-the-badge&logo=scss&logoColor=White)
+![docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=White)
+![docker-compose](https://img.shields.io/badge/-docker-compose-blue?style=for-the-badge&logo=docker-compose&logoColor=White)
+
 
 ### Follow Me
 
