@@ -15,15 +15,15 @@ make people's lives easier and help them solve problems more efficient
 
 
 ### Skills
-![PythonCore](https://img.shields.io/badge/-PythonCore-blueviolet?style=for-the-badge&logo=PythonCore&logoColor=White)
-![ClearCode](https://img.shields.io/badge/-ClearCode-blueviolet?style=for-the-badge&logo=ClearCode&logoColor=White)
-![externalAPi](https://img.shields.io/badge/-externalAPi-blueviolet?style=for-the-badge&logo=externalAPi&logoColor=White)
+![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
+![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
+![fastAPI](https://img.shields.io/badge/-fastAPI-blueviolet?style=for-the-badge&logo=fastAPI&logoColor=White)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
-![Parsing](https://img.shields.io/badge/-Parsing-blueviolet?style=for-the-badge&logo=Parsing&logoColor=White)
-![Automation](https://img.shields.io/badge/-Automation-blueviolet?style=for-the-badge&logo=Automation&logoColor=White)
-![WorkPictures](https://img.shields.io/badge/-WorkPictures-blueviolet?style=for-the-badge&logo=WorkPictures&logoColor=White)
-![Databases](https://img.shields.io/badge/-Databases-blueviolet?style=for-the-badge&logo=Databases&logoColor=White)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-blueviolet?style=for-the-badge&logo=SqlAlchemy&logoColor=White)
+![Djoser](https://img.shields.io/badge/-Djoser-blueviolet?style=for-the-badge&logo=Djoser&logoColor=White)
+![Simplejwt](https://img.shields.io/badge/-Simplejwt-blueviolet?style=for-the-badge&logo=Simplejwt&logoColor=White)
+![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
 
 ### Follow Me
 
