@@ -11,6 +11,8 @@ make people's lives easier and help them solve problems more efficient
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=yellow)
+
 
 ### Skills
 ![PythonCore](https://img.shields.io/badge/-PythonCore-blueviolet?style=for-the-badge&logo=PythonCore&logoColor=White)
